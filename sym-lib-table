@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EEU-FR1H102")(type "KiCad")(uri "C:/Users/User/Documents/KiCad/LIB_EEUFR1H102/EEUFR1H102/KiCad/EEUFR1H102.kicad_sym")(options "")(descr "Конденсатор електролітичний,стабілізація живлення, THT"))
+  (lib (name "12105C106K4Z2A")(type "KiCad")(uri "C:/Users/User/Documents/KiCad/12105C106K4Z2A/12105C106K4Z2A.kicad_sym")(options "")(descr "Конденсатор, 12105C106K4Z2A, X7R 10 µF"))
+  (lib (name "RC0603FR-07-0603")(type "KiCad")(uri "C:/Users/User/Documents/KiCad/RC0603FR-0710KL/RC0603FR-0710KL.kicad_sym")(options "")(descr "Резистор RC0603FR-07, 0603, SMD, 10к, 1%"))
+)
